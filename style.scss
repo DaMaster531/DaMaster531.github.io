@@ -129,7 +129,7 @@ img {
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background-image: ("http://www.fg-a.com/wallpapers/black-background-retro.jpg");
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -171,9 +171,8 @@ header {
 footer {
 	Background-color: DeepSeaGreen;
 }
-background-image {
-	("http://www.fg-a.com/wallpapers/black-background-retro.jpg")
-}
+
+
 
 
 .site-avatar {
