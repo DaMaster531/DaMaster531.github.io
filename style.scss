@@ -118,6 +118,10 @@ img {
   max-width: none;
 }
 
+body {
+	background-image: ("https://www.fg-a.com/wallpapers/white-stone-1280.jpg");
+}
+
 .date {
   font-style: italic;
   color: $gray;
@@ -130,7 +134,6 @@ img {
 }
 ::selection {
   color: $black;
-  background-image: ("https://www.fg-a.com/wallpapers/white-stone-1280.jpg");
 }
 
 // Nicolas Gallagher's micro clearfix hack
