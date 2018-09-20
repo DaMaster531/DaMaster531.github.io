@@ -41,6 +41,11 @@ th {
 	height: 100px;
 }
 
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
 container {
 	opacity: 0.9;
 	background-color: DodgerBlue;
