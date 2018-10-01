@@ -74,7 +74,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I need to get less distracted and help other subtlety whilst not given them the direct awnser.</td>
+    <td>I need to get less distracted and help other subtlety whilst not given them the direct answer.</td>
     <td></td>
   </tr>
 </table>
